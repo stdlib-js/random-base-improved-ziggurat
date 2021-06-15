@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-base-improved-ziggurat",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Normally distributed pseudorandom numbers using the improved Ziggurat method.",
   "license": "Apache-2.0",
   "author": {
