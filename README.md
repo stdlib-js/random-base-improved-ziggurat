@@ -330,7 +330,7 @@ var o = rand.toJSON();
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<body>
 <script type="module">
 
 import randn from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-improved-ziggurat@esm/index.mjs';
@@ -362,7 +362,7 @@ for ( i = 0; i < 100; i++ ) {
 }
 
 </script>
-</head>
+</body>
 </html>
 ```
 
@@ -443,6 +443,13 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [dependencies-url]: https://david-dm.org/stdlib-js/random-base-improved-ziggurat/main
 
 -->
+
+[umd]: https://github.com/umdjs/umd
+[es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+
+[deno-url]: https://github.com/stdlib-js/random-base-improved-ziggurat/tree/deno
+[umd-url]: https://github.com/stdlib-js/random-base-improved-ziggurat/tree/umd
+[esm-url]: https://github.com/stdlib-js/random-base-improved-ziggurat/tree/esm
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
