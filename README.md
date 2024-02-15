@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import randn from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-improved-ziggurat@deno/mod.js';
+import randn from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-improved-ziggurat@v0.2.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-improved-ziggurat@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-improved-ziggurat@v0.2.0-deno/mod.js';
 ```
 
 #### randn()
@@ -345,7 +345,7 @@ var o = rand.toJSON();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import randn from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-improved-ziggurat@deno/mod.js';
+import randn from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-improved-ziggurat@v0.2.0-deno/mod.js';
 
 var seed;
 var rand;
